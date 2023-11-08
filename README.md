@@ -2,8 +2,8 @@
 
 ## 내용
 
-23.11.08. useState(), ~~useEffect()~~ 훅 활용한 [Timer() 과제](./src/Homework/Timer.jsx)
-23.11.08. ~~useReducer()~~, useRef(), useState() 훅 활용한 [Custom hook 과제](./src/Homework/User.jsx)
+- 23.11.08. useState(), ~~useEffect()~~ 훅 활용한 [Timer() 과제](./src/Homework/Timer.jsx)
+- 23.11.08. ~~useReducer()~~, useRef(), useState() 훅 활용한 [Custom hook 과제](./src/Homework/User.jsx)
 
 ## Getting Started with Create React App
 
