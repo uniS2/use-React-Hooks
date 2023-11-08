@@ -33,11 +33,13 @@ function Timer() {
   };
 
   return (
-    <div>
+    <>
+      <h1>1. Timer</h1>
+      <p>useEffect 훅 활용하기</p>
       <p>0:{timer < 10 ? `0${timer}` : timer}</p>
       <button onClick={handleStart}>{isStart ? "정지" : "시작"}</button>
       <button onClick={handleReset}>리셋</button>
-    </div>
+    </>
   );
 }
 
