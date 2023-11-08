@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* body css 추가 */
+body {
+  margin-left: 1rem;
+}
